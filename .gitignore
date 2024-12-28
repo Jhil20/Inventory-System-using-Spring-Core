@@ -2,9 +2,6 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-**/src/main/java/com/bean/customer.java
-**/src/main/java/com/controller/customerController.java
-**/src/main/java/com/DAO/customerDAO.java
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
